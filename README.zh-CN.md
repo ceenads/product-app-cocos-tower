@@ -2,6 +2,8 @@
 
 [English](./README.md) | 简体中文
 
+站点地址：https://ceenware.github.io/product-app-cocos-tower/
+
 <h1 align="center">盖楼游戏</h1>
 <p align="center"><img src="https://o2qq673j2.qnssl.com/tower-loading.gif"/></p>
 
